@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<widget id="A6965066817858" version="0.0.11">
+  <name>API Demo</name>
+  <description>api demo for api.</description>
+  <author email="developer@apicloud.com" href="http://www.apicloud.com">APICloud</author>
+  <content src="index.html"/>
+  <preference name="windowBackground" value="image/common/bg.png"/>
+  <preference name="autoLaunch" value="true"/>
+  <preference name="autoUpdate" value="true"/>
+  <preference name="smartUpdate" value="true"/>
+  <access origin="*"/>
+</widget>
